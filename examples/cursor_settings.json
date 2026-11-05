@@ -1,0 +1,10 @@
+{
+  "openai.baseUrl": "https://api.agentik.my.id/v1",
+  "openai.apiKey": "agtk_live_YOUR_API_KEY_HERE",
+  "models": [
+    "claude-3-5-sonnet-20241022",
+    "gpt-4o",
+    "gemini-1.5-pro",
+    "deepseek-chat"
+  ]
+}
